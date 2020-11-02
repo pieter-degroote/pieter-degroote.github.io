@@ -1,0 +1,17 @@
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 1em;
+  line-height: 2;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: Black;
+    color: Lime;
+  }
+  a {
+    color: LightSkyBlue;
+  }
+}
