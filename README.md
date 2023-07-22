@@ -1,6 +1,6 @@
-# Pieter Degroote - Main Website
+# Pieter Degroote - Profile
 
-## [pieter-degroote.info &nbsp;(https://pieter-degroote.github.io/)](https://pieter-degroote.github.io/)
+**Website&nbsp;: &nbsp;[www.pieter-degroote.info](https://pieter-degroote.github.io/)**
 
 # UltimateKEYS - Latest Releases
 
